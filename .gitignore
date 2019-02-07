@@ -115,7 +115,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
- *.pyc
+*.pyc
 
- # contains login information
- config.py
+# contains login information
+config.py
